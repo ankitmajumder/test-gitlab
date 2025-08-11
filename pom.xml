@@ -4,7 +4,7 @@
 
 	<groupId>e2ff990b-9221-4eaa-9dcf-ca898b8c3ead</groupId>
 	<artifactId>test-github</artifactId>
-	<version>1.0.3-SNAPSHOT</version>
+	<version>1.0.4</version>
 	<packaging>mule-application</packaging>
 
 	<name>test-github</name>
